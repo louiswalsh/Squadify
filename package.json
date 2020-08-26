@@ -1,0 +1,15 @@
+{
+  "name": "squadify",
+  "version": "1.0.0",
+  "description": "Crew Love w/ Music",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Squadify"
+  },
+  "author": "Louie W",
+  "license": "ISC"
+}
